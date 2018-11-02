@@ -16,8 +16,6 @@ Download all the files in this repository.
 
 Run `npm install`. All dependencies will install.
 
-Because this is proof-of-concept code, we don't have any unit tests. But, to do a quick sanity check to make sure there aren't any syntax issues, you can run `grunt`. That will run ESLint and JSONLint.
-
 ### Prepare your queue file
 
 To test your URLs, add them to the `queue.txt`. Each URL must be on its own line.

@@ -2,7 +2,7 @@
     "name": "tenon-bulk-src-test",
     "version": "0.0.1",
     "dependencies": {
-        "puppeteer": "^1.9.0",
+        "puppeteer": "^1.13.0",
         "sleep": "^5.2.4",
         "tenon-node": "^0.4.1"
     }
